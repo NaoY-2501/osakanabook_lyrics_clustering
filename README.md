@@ -6,6 +6,10 @@ sora tob sakanaファンによる同人サークル「星空の漁業組合」�
 
 ## ファイルについて
 
+- `appendix`
+
+  - [`token_count.csv`](https://github.com/NaoY-2501/osakanabook_lyrics_clustering/blob/master/appendix/token_count.csv) : 単語の出現数の集計(出現数の降順)
+
 - `sparse_pca`
 
   - [`sparse_pca.png`](https://github.com/NaoY-2501/osakanabook_lyrics_clustering/blob/master/sparse_pca/sparse_pca.png) : 次元削減結果(本誌図1)
